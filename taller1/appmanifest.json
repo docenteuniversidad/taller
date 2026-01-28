@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Taller1",
-	"short_name": "Taller1",
+	"name": "Selección Aleatoria",
+	"short_name": "Selección Aleatoria",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
